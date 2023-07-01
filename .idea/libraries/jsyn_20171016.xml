@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsyn-20171016">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sound/library/jsyn-20171016.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sound/library/javamp3-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sound/library/sound.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

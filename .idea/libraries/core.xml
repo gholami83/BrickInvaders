@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://D:/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/core.jar!/" />
+      <root url="file://D:/jdk-20.0.1" />
+    </SOURCES>
+  </library>
+</component>
